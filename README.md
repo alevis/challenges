@@ -1,2 +1,2 @@
-# challenges
-Coding challenges
+# Challenges
+ - Coding challenges
